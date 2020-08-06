@@ -1,16 +1,13 @@
-### Hi there 👋
+# Daniel Marcon &mdash; @marcon21
+#### From Verona &rarr; to Trento
+Developer :octocat:	by passion, Linux :penguin: lover (_i use arch btw_) and amatorial photographer :camera:.
 
-<!--
-**marcon21/marcon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Docker :whale: Lover, Python :snake: enthusiast and of many other languages like Java, C/C++, Javascript, ~PHP~, SH and Go. 
 
-Here are some ideas to get you started:
+Ex Student from ITI Marconi Verona, currently studying Computer Engineering at UniTn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch:
+If you want to hit me up for any question, buisness relationships, or literally for any other reason:
+  - Email: marcondaniel2001@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/marcondaniel/)
+  - [Instagram](https://instagram.com/marcon21)
